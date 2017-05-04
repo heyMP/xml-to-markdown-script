@@ -1,0 +1,6 @@
+### Navigation Between the Course Content Site, Piazza & ANGEL
+
+Registered students in online Penn State courses need to navigate between several environments in the World Wide Web. For this course these include:
+
+1. This course content for this site is stored outside of ANGEL on the website you are on now. All lesson content is provided on this site for each lesson. This is also where you will find the course schedule, informaton on course materials, the grading standards, and information about proctored exams. This is where all of the information relating to course requirements will be found. This site has a direct link to ANGEL and the Piazza discussion forum (see the **Resources** link on the left sidebar menu).
+2. ANGEL ([http://cms.psu.edu](http://angel.psu.edu/) ) is Penn State's enterprise course management system. In ANGEL, registered students can communicate with the instructor, take online quizzes, and check assignments scores. A link to ANGEL is provided on each page of this content site--it is the first link under **Resources** on the left sidebar. In ANGEL, registered students will find links back to this site. Logging on to the PSU WebAccess gives registered students automatic access to both the ANGEL and course content sites.

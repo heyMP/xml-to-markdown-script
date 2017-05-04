@@ -1,0 +1,10 @@
+- ![light bulb](https://online.science.psu.edu/sites/default/files/phys010/W5electron/Gluehlampe_01_KMJ.png)Electricity is a force between charged objects. The electron has negative charge -e and the proton has positive charge +e. Where \(e = 1.602\times10^{-19}\) Coulombs.
+- Most of the time, the electrons are the particles moving in an electric current. In addition to their charge, electrons have a mass of 0.5 MeV/\(c^2\) and a spin of 1/2. The eV is a unit for energy, which is just the charge e times 1 volt. 1 eV = \(1.602 \times 10^{-19}\) Joules. 1 MeV is one Mega electron volt or (\(10^6\) eV).
+- A force changes momentum over a certain time. \( F \Delta t = \Delta p\)
+- Each charged object generates an electric field everywhere in space.
+- Given a picture of the electric field. You should be able to determine where the force is stronger and in which direction it is. The electric force is just the charge times the value of the electric field \(F = q E\). If the charge is negative, the force will be in the opposite direction as the E field.
+- You should know what a conductor, capacitor and battery are. Understand the water tower analogy.
+- The most important concept this week was 
+  - **A changing E field creates a B field and vice versa**
+- Explain the basic working of a generator, a transformer and an electromagnet.
+- Why does the electric grid uses AC current? Why are the main vulnerability of our electric grid that can cause failure like we saw in 2003?

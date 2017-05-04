@@ -1,0 +1,1 @@
+This class is a 3-credit General Education class with no pre-requisites. The expected workload is 9 to 12 hours per week. This workload includes studying the weekly lessons and the weekly readings as well as doing all the assessments. There will be roughly one homework or virtual lab per week together with a discussion board except on the week of the exams.

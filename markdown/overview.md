@@ -1,0 +1,3 @@
+In this class you will learn the _conceptual aspects_ of modern physics with the goal of interpreting and summarizing recent technological advances, scientific breakthroughs and social events related to science as they appear in the news. Real news articles will be used in each weekly lesson to introduce the subject. The content objectives will focus primarily on the modern physics of quantum mechanics and relativity. No prior knowledge of physics is assumed and there are not math pre-requisites.
+
+This class is meant to be a fun exploration at the frontier of our knowledge of the natural world! Recent scientific news and social events will be our guides through the landscape of modern physics.

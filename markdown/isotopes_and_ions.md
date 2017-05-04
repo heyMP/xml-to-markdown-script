@@ -1,0 +1,14 @@
+In this section, we will learn how to identify atoms. Each atom has a name and fundamental properties. In the Fig 5, we see the atomic symbol for nitrogen (N for Nitrogen) and it has 2 numbers (7 and 14) and an ionization symbol (here 0 but it could be + or -, or ++, ...). Lets look into what this all means.
+
+  
+![Atomic Notation for Nitrogen](https://online.science.psu.edu/sites/default/files/phys010/W1atoms/nitrogen.png "Fig 5. This is the nitrogen atom (N) with atomic number 7. It is the atom N-14 which means it has a total of 7 protons and 7 neutrons. It is not ionized so it has 0 for ionization.")
+
+There are three important concepts here.
+
+1. **Atomic number:** This is the number of protons in the nucleus. If you change the number of protons, you change the atoms entirely. Hydrogen has 1 proton, nitrogen (see Fig 5) has 7, iron has 26 and uranium has 92. If you add 1 proton to a nitrogen atom, we stop calling it nitrogen, we call it oxygen.
+2. **Isotopes:** Most elements have an equal numbers of neutron and protons, although this vary (e.g. hydrogen has one proton but no neutron). In fig 5, the number 14 is the total number of protons and neutrons which is doubled that of protons for a standard nitrogen atom. This number is often called the **atomic mass number**. An isotope is an element with the same number of protons but different number of neutrons. Deuterium, often called heavy hydrogen, is a common isotope of hydrogen. The nucleus has 1 proton and 1 neutron and this is a perfectly stable element. Because the nucleus is twice as heavy as normal hydrogen, deuterium is often called heavy hydrogen. When deuterium is used to make water we call the water, heavy water. This type of water is used to cool nuclear power plant for example. Tritium is another isotope of Hydrogen. It has 1 proton and 2 neutrons. It is unstable and radioactive and thus much rarer on our planet.
+3. **Ions:** Finally, an ion is an atom which has more or fewer electrons than the number of protons. If the atom has one more electron than protons, it will have a net negative charge (and we then put a negative sign next to the symbol). If one electron is taken away, it will have a net positive charge (and we put a + sign next to the symbol.)
+
+In the Fig 6 below, you can see what happens to Nitrogen when we add protons and neutrons and take out an electron. Note that you have no way to tell whether an isotope will be stable or not. In principle, if we have enough knowledge of physics, we could figure it out but, it's a hard problem, and, since somebody already figured it out, you can just look it up!
+
+![](https://online.science.psu.edu/sites/default/files/phys010/W1atoms/changingnitrogen3.png "Fig 6. Nitrogen changes when we add or take away protons, neutrons and electrons. ")

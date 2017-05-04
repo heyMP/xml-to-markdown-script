@@ -1,0 +1,11 @@
+- The Universe is expanding. The further a cosmological structure is, the longer it takes its light to reach us. We see that structure as it was in the past when the light was emitted at the source.
+- We do not know whether the Universe is finite or infinite, but we know that it is evolving. We can only see the light of the stars that are close enough for their light to have had time to reach us. This resolves Olbers' paradox and explains why the sky is dark. Their used to be a time in the Universe where there were no stars.
+- Any matter that is neutral under the electromagnetic force is "dark." So neutrons and neutrinos would be dark-matter candidates. We have evidence of another dark matter (beyond neutrons and neutrinos) in the Universe. It's exact nature as a particle (or something else) is unknown.
+- Indirect evidence for dark matter comes from its gravitational effect on the rotation curve of stars in galaxy, and from the behavior of galaxies in galaxy clusters.
+- Gravitational lensing refers to the bending of light around massive objects. By looking at distorted images we can figure where and how much mass there is in a galaxy cluster.
+- When applied to the bullet cluster, gravitational lensing shows that the dark matter is clearly separated from the luminous matter (gases and galaxies).
+- Einstein’s theory predicts that energy density should drive spacetime to expand or contract.
+- Before 1998, most cosmologists thought that the Universe was dominated by dark matter which would slow down the expansion of space and possibly result in a future Big Crunch. Surprisingly enough, we found out that the Universe is accelerating. The Universe is getting bigger faster and faster and it shows no sign of ever wanting to stop and reverse.
+- To explain this accelerating expansion, physicist invokes a new source of energy, called dark energy. This energy does not dilute as space expand. The prime candidate is that this dark energy is the energy of vacuum. It is still much of a mystery why the vacuum would have this amount of energy.
+- We now think that the Universe is made of ~70% dark energy, ~25% dark matter, and ~5% ordinary matter.
+- We hope one day to understand what that dark 95% really is.
